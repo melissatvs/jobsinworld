@@ -10,6 +10,7 @@
 * [Frontend Vagas - Github](https://github.com/frontendbr/vagas/)
 * [Geek Hunter](http://www.geekhunter.com.br)
 * [Hipsters Jobs](http://www.hipsters.jobs)
+* [Impulso](https://impulso.work/)
 * [Infojobs](http://www.infojobs.com.br)
 * [Maturijobs](http://www.maturijobs.com)
 * [Net Carreiras](https://www.netcarreiras.com.br)
@@ -23,8 +24,8 @@
 * [Ti Jobs](http://www.tijobs.com.br)
 * [Trampos CO](http://www.trampos.co)
 * [Vaga Colaborativa](http://www.vagacolaborativa.com.br)
-* [Vagas na Net](http://www.vagasnanet.com.br)
 * [Vagas POA](https://www.vagaspoa.com.br)
+* [Vagas na Net](http://www.vagasnanet.com.br)
 * [Vagas](http://www.vagas.com.br)
 * [Vulpi](https://app.vulpi.com.br/jobs)
 
